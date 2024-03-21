@@ -1,8 +1,8 @@
-# Hackathon Instructions
+# AI Workshop Instructions
 
 ## Welcome
 
-Awesome that you're on board the hackathon. We've compiled all the repos from the [copilot-workshops page](https://github.com/copilot-workshops) into a single repository for your convencience. You will find detailed instructions for all the exercises within each challenge's subfolder under `.instructions/`.
+Awesome that you're on board the workshop. We've compiled all the repos from the [copilot-workshops page](https://github.com/copilot-workshops) into a single repository for your convencience. You will find detailed instructions for all the exercises within each challenge's subfolder under `.instructions/`.
 
 ## The goal
 
